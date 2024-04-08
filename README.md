@@ -8,3 +8,15 @@
   docker-compose up --build
   ```
 3. Open a browser and navigate to `localhost:3001` to access the application.
+
+4. If Docker is not working for whatever reason run:
+  ```bash
+  npm install
+  ```
+
+5. Then run:
+  ```bash
+  npm run dev
+  ```
+
+6. Open a browser and navigate to `localhost:3001` to access the application.
